@@ -2,4 +2,5 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [TIC-TAC-TOE game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TIC-TAC-TOE](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [UHCL Graduate Admissions Webpage](https://github.com/joshmadakor1/Algorithms-Practice)
