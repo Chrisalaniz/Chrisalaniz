@@ -9,4 +9,4 @@
 - <b>C#, HTML, CSS (ASP.net)</b>
   - [UHCL Graduate Admissions Webpage](https://github.com/Chrisalaniz/UHCL-Graduate-Admissions-Webpage)
 - <b>Software Testing</b>
-  - [Blackjack](https://github.com/Chrisalaniz/Blackjack)
+  - [Blackjack](https://github.com/Chrisalaniz/Test-Cases-for-Mobile-App)
