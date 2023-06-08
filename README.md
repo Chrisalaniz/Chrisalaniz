@@ -6,9 +6,9 @@
   - [Test Cases Project](https://github.com/Chrisalaniz/Test-Cases-for-Mobile-App)
 - <b>Java</b>
   - [Blackjack](https://github.com/Chrisalaniz/Blackjack)
-- <b>Javascript (ASP.net)</b>
+- <b>Javascript (ASP.NET)</b>
   - [TIC-TAC-TOE](https://github.com/Chrisalaniz/TIC-TAC-TOE)
-- <b>C#, HTML, CSS (ASP.net)</b>
+- <b>C#, HTML, CSS (ASP.NET)</b>
   - [UHCL Graduate Admissions Webpage](https://github.com/Chrisalaniz/UHCL-Graduate-Admissions-Webpage)
 
 <h2>📄 Certificates:</h2>
