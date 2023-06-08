@@ -12,6 +12,7 @@
   - [UHCL Graduate Admissions Webpage](https://github.com/Chrisalaniz/UHCL-Graduate-Admissions-Webpage)
 
 <h2>📄 Certificates:</h2>
+
 - <b>Software Testing</b>
   - [The Complete 2023 Software Testing Bootcamp](https://github.com/Chrisalaniz/Test-Cases-for-Mobile-App)
 - <b>Java</b>
