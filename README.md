@@ -16,4 +16,4 @@
 - <b></b>
   - [The Complete 2023 Software Testing Bootcamp](https://github.com/Chrisalaniz/Software-Testing-Bootcamp-Certification)
 - <b></b>
-  - [The Complete Java Development Bootcamp](https://github.com/Chrisalaniz/Blackjack)
+  - [The Complete Java Development Bootcamp](https://github.com/Chrisalaniz/Java-Development-Bootcamp)
